@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+    font-family: roboto;
+    text-align: center;
+}
+
+.header {
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.content {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.view {
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+    padding: 5px 10px 5px 10px;
+}
+
+.vew :hover {
+    background-color: white;
+}
+
+.footer {
+    margin-top: 30px;
+}
